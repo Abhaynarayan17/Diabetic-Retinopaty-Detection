@@ -11,4 +11,4 @@ This project focuses on using image processing techniques to analyze retinal ima
 8.	Calculates the area of the optic disc
 9.	Calculates the number of microaneurysms
 10.	Displays the results
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.contouravisionindia.com%2Fblog%2Fwhat-causes-diabetic-retinopathy&psig=AOvVaw04BZiK0MnCk6hhspJia4Ye&ust=1724086264333000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDXgJ-G_4cDFQAAAAAdAAAAABAE">
+<img src="C:\Users\Abhaynarayan\Downloads">
