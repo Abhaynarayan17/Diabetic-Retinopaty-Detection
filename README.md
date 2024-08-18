@@ -1,23 +1,8 @@
-# Diabetic-Retinopaty-Detection
-This project focuses on using image processing techniques to analyze retinal images and detect anomalies indicative of the disease. It is designed to detect Microaneurysms in the images.
-# Key Functions
-1.	Loads a diabetic retinopathy image
-2.	Converts the image to grayscale
-3.	Applies median filtering to reduce noise
-4.	Applies thresholding to segment the blood vessels
-5.	Applies morphological operations to enhance the blood vessels
-6.	Find the optic disc using a function
-7.	Draws a circle around the optic disc
-8.	Calculates the area of the optic disc
-9.	Calculates the number of microaneurysms
-10.	Displays the results
-
-
-Project Description: Diabetic Retinopathy Detection Using Image Processing and Machine Learning
+# Diabetic-Retinopathy-Detection
+Diabetic Retinopathy Detection Using Image Processing and Machine Learning
 This project focuses on the development of an automated system for detecting and classifying diabetic retinopathy (DR) from retinal images. Diabetic retinopathy is a severe eye condition that can lead to blindness if not detected and treated early. The system is designed to assist ophthalmologists by automatically segmenting key anatomical structures in the retina, detecting pathological features, and classifying the stages of diabetic retinopathy.
 
-The system employs a combination of advanced image processing techniques and machine learning algorithms to perform the following tasks:
-
+# Key Functions
 Blood Vessel Segmentation: Blood vessels are segmented using techniques such as the Frangi filter or Gabor filter, enhancing the visibility of retinal vessels, which are crucial for diagnosing various stages of diabetic retinopathy.
 
 Optic Disc Segmentation: The optic disc, a critical anatomical landmark, is segmented using active contour models (snakes) or level set methods. Accurate segmentation of the optic disc is essential for further analysis of retinal images.
