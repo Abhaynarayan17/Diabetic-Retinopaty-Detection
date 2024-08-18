@@ -1,4 +1,4 @@
-##Diabetic-Retinopathy-Detection
+# Diabetic-Retinopathy-Detection
 Diabetic Retinopathy Detection Using Image Processing.
 This project focuses on the development of an automated system for detecting and classifying diabetic retinopathy (DR) from retinal images. Diabetic retinopathy is a severe eye condition that can lead to blindness if not detected and treated early. The system is designed to assist ophthalmologists by automatically segmenting key anatomical structures in the retina, detecting pathological features, and classifying the stages of diabetic retinopathy.
 
