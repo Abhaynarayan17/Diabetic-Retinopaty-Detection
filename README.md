@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy-Detection
+##Diabetic-Retinopathy-Detection
 Diabetic Retinopathy Detection Using Image Processing.
 This project focuses on the development of an automated system for detecting and classifying diabetic retinopathy (DR) from retinal images. Diabetic retinopathy is a severe eye condition that can lead to blindness if not detected and treated early. The system is designed to assist ophthalmologists by automatically segmenting key anatomical structures in the retina, detecting pathological features, and classifying the stages of diabetic retinopathy.
 
@@ -9,11 +9,9 @@ Optic Disc Segmentation: The optic disc, a critical anatomical landmark, is segm
 
 Microaneurysm Detection: Microaneurysms are the earliest signs of diabetic retinopathy. The system detects microaneurysms using blob detection or feature extraction methods, which help in identifying the severity of the condition.
 
-Classification of Diabetic Retinopathy Stages: The segmented features are fed into machine learning models, such as Support Vector Machines (SVM) or Convolutional Neural Networks (CNN), to classify the retinal images into different stages of diabetic retinopathy.
-
 The goal of this project is to create a reliable and efficient tool for early detection and monitoring of diabetic retinopathy, potentially reducing the burden on healthcare providers and improving patient outcomes through timely intervention.
 
-Microaneurysm Detection Using Blob Detection
+## Microaneurysm Detection Using Blob Detection
 Microaneurysm Detection using Blob Detection is a critical component of the automated diabetic retinopathy detection system. Microaneurysms are small, circular, reddish spots on the retina, caused by the dilation of capillaries. They are among the earliest clinical signs of diabetic retinopathy, and their detection is crucial for early diagnosis.
 
 Blob Detection is an image processing technique used to identify regions in an image that differ in properties, such as brightness or color, compared to surrounding regions. In the context of retinal images, blob detection is employed to identify microaneurysms by recognizing these small, round, dark spots that stand out against the lighter background of the retina.
